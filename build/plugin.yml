@@ -1,0 +1,5 @@
+name: EndlessPearl
+main: io.mewsub.endlesspearl.EndlessPearl
+version: 1.0
+api-version: 1.16
+commands:
